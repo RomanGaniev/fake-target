@@ -86,7 +86,7 @@
             "share_of_the_total":7000.36,
             "plan":1,
             "fact":1.1,
-            "interest payment":0.1
+            "interest_payment":0.1
         },
         {
             "id":2,
@@ -94,7 +94,7 @@
             "share_of_the_total":6492.72,
             "plan":1.2,
             "fact":1.15,
-            "interest payment":0.25
+            "interest_payment":0.25
         },
         {
             "id":3,
@@ -102,7 +102,7 @@
             "share_of_the_total":6942.25,
             "plan":0.75,
             "fact":0.65,
-            "interest payment":0.07
+            "interest_payment":0.07
         },
         {
             "id":4,
@@ -110,7 +110,7 @@
             "share_of_the_total":3042.38,
             "plan":2,
             "fact":1.35,
-            "interest payment":0.22
+            "interest_payment":0.22
         },
         {
             "id":5,
@@ -118,8 +118,8 @@
             "share_of_the_total":2053.54,
             "plan":1,
             "fact":0.67,
-            "interest payment":0.35
+            "interest_payment":0.35
         }
-    ]
+    ]   
     
 }
